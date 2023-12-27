@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-груз-e",
+  "editForm": "i-i-s-logistika2024-груз-e",
+  "external": false,
+  "caption": "Груз",
+  "name": "IISLogistika2024ГрузL",
+  "className": "ГрузL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-груз",
+      "modelProjection": "ГрузL"
+    }
+  ]
+}

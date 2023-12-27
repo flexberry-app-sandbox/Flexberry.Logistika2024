@@ -1,0 +1,101 @@
+﻿{
+  "applicationCaption": "Логистика",
+  "applicationTitle": "Логистика",
+  "items": [
+    {
+      "link": null,
+      "menuName": "данные-об-организации-и-ее-компонентах",
+      "caption": "Данные об организации и ее компонентах",
+      "title": "Данные об организации и ее компонентах",
+      "children": [
+        {
+          "link": "i-i-s-logistika2024-контейнеры-l",
+          "menuName": null,
+          "caption": "Контейнеры",
+          "title": "Контейнеры",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "Сотрудники",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "Организация",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-баржи-l",
+          "menuName": null,
+          "caption": "Баржи",
+          "title": "Баржи",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "Клиенты",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "документация",
+      "caption": "Документация",
+      "title": "Документация",
+      "children": [
+        {
+          "link": "i-i-s-logistika2024-докум-постав-l",
+          "menuName": null,
+          "caption": "Документ поставки",
+          "title": "Докум постав",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-загруз-контейн-l",
+          "menuName": null,
+          "caption": "Загрузка контейнера",
+          "title": "Загруз контейн",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-загрузка-баржи-l",
+          "menuName": null,
+          "caption": "Загрузка баржи",
+          "title": "Загрузка баржи",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika2024-докум-результ-п-l",
+          "menuName": null,
+          "caption": "Документ результатов поставки",
+          "title": "Докум результ П",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "номенклатура",
+      "caption": "Номенклатура",
+      "title": "Номенклатура",
+      "children": [
+        {
+          "link": "i-i-s-logistika2024-груз-l",
+          "menuName": null,
+          "caption": "Груз",
+          "title": "Груз",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

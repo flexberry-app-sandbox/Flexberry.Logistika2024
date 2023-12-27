@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-сотрудники-e",
+  "editForm": "i-i-s-logistika2024-сотрудники-e",
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISLogistika2024СотрудникиL",
+  "className": "СотрудникиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-сотрудники",
+      "modelProjection": "СотрудникиL"
+    }
+  ]
+}

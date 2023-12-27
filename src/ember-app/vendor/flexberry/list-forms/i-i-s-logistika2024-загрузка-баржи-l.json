@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-загрузка-баржи-e",
+  "editForm": "i-i-s-logistika2024-загрузка-баржи-e",
+  "external": false,
+  "caption": "Загрузка баржи",
+  "name": "IISLogistika2024ЗагрузкаБаржиL",
+  "className": "ЗагрузкаБаржиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-загрузка-баржи",
+      "modelProjection": "ЗагрузкаБаржиL"
+    }
+  ]
+}

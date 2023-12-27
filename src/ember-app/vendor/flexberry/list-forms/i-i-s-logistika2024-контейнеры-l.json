@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-контейнеры-e",
+  "editForm": "i-i-s-logistika2024-контейнеры-e",
+  "external": false,
+  "caption": "Контейнеры",
+  "name": "IISLogistika2024КонтейнерыL",
+  "className": "КонтейнерыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-контейнеры",
+      "modelProjection": "КонтейнерыL"
+    }
+  ]
+}

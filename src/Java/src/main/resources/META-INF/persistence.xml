@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistencehttp://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+    <persistence-unit name="Olingo4PG">
+        <class>Logistika2024.model.TCHInfOZak</class>
+        <class>Logistika2024.model.Organizaciya</class>
+        <class>Logistika2024.model.TCHInfOKont</class>
+        <class>Logistika2024.model.Barzhi</class>
+        <class>Logistika2024.model.TCHSvobMest</class>
+        <class>Logistika2024.model.Kontejnery</class>
+        <class>Logistika2024.model.Klienty</class>
+        <class>Logistika2024.model.TCHDostKon</class>
+        <class>Logistika2024.model.Gruz</class>
+        <class>Logistika2024.model.DokumRezultP</class>
+        <class>Logistika2024.model.Sotrudniki</class>
+        <class>Logistika2024.model.DokumPostav</class>
+        <class>Logistika2024.model.ZagruzKontejn</class>
+        <class>Logistika2024.model.TCHRaspisanie</class>
+        <class>Logistika2024.model.TCHInfOGruze</class>
+        <class>Logistika2024.model.ZagruzkaBarzhi</class>
+        <class>Logistika2024.model.FlexberryAdvLimit</class>
+        <class>Logistika2024.model.NewPlatformFlexberryFlexberryUserSetting</class>
+        <class>Logistika2024.model.NewPlatformFlexberryServicesLock</class>
+        <class>Logistika2024.model.IISCaseberryLoggingObjectsApplicationLog</class>
+
+    </persistence-unit>
+</persistence>

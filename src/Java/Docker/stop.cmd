@@ -1,0 +1,1 @@
+docker-compose -p logistika2024-java down

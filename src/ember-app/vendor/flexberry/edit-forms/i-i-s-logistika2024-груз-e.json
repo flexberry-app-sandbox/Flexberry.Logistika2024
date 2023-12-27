@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Груз",
+  "name": "IISLogistika2024ГрузE",
+  "className": "ГрузE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-груз",
+      "modelProjection": "ГрузE"
+    }
+  ]
+}

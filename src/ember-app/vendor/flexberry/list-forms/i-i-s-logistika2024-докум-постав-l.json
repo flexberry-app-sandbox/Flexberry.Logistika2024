@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-докум-постав-e",
+  "editForm": "i-i-s-logistika2024-докум-постав-e",
+  "external": false,
+  "caption": "Документ поставки",
+  "name": "IISLogistika2024ДокумПоставL",
+  "className": "ДокумПоставL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-докум-постав",
+      "modelProjection": "ДокумПоставL"
+    }
+  ]
+}

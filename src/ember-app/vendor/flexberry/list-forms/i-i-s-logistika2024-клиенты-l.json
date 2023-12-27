@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika2024-клиенты-e",
+  "editForm": "i-i-s-logistika2024-клиенты-e",
+  "external": false,
+  "caption": "Клиенты",
+  "name": "IISLogistika2024КлиентыL",
+  "className": "КлиентыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika2024-клиенты",
+      "modelProjection": "КлиентыL"
+    }
+  ]
+}
